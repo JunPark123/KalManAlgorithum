@@ -1,0 +1,22 @@
+﻿################################################################################
+# 이 .gitignore 파일은 Microsoft(R) Visual Studio에서 자동으로 만들어졌습니다.
+################################################################################
+
+/Csharp/BMS New Test Architecture/bin/Debug/net6.0
+/Csharp/BMS New Test Architecture/obj
+/Csharp/ConsoleApp1/bin/Debug/net6.0
+/Csharp/ConsoleApp1/obj
+/Csharp/ConsoleApp2/bin/Debug/net6.0
+/Csharp/ConsoleApp2/obj
+/Csharp/ConsoleApp3/bin/Debug/net6.0
+/Csharp/ConsoleApp3/obj
+/Csharp/ConsoleApp4/bin/Debug/net6.0
+/Csharp/ConsoleApp4/obj
+/Csharp/ConsoleApp5/bin/Debug/net6.0
+/Csharp/ConsoleApp5/obj
+/Csharp/ConsoleApp6/obj
+/Csharp/CsharpPythonAlgorithum/bin/Debug
+/Csharp/CsharpPythonAlgorithum/obj/Debug
+/Csharp/Python/bin/Debug/net6.0
+/Csharp/Python/obj
+/Csharp
